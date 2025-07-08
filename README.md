@@ -13,6 +13,10 @@ This is an interactive Streamlit web application that allows users to upload PDF
 - 📥 **Downloadable Summary**: Download the AI-generated summary as a `.txt` file.
 - 🖥️ **Interactive UI**: Built with Streamlit for a user-friendly web interface.
 
+![image](https://github.com/user-attachments/assets/4f493646-06fd-4677-9d18-3a26d7145abe)
+
+![image](https://github.com/user-attachments/assets/c9f4287a-f9fb-4f63-bafe-07b7ac2f4c75)
+
 ---
 
 ## 🛠️ Installation
